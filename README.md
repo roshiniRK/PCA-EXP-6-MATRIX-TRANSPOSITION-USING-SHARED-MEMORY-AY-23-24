@@ -395,7 +395,6 @@ CHECK(cudaMemset(d_C, 0, nBytes));
     return EXIT_SUCCESS;
 }
 ```
-
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/cfdd7149-0350-4d50-a4d9-9910e9b8ff42)
